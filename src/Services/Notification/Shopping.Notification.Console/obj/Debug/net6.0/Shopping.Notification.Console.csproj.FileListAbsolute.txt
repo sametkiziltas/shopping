@@ -1,0 +1,15 @@
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\bin\Debug\net6.0\Shopping.Notification.Console.exe
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\bin\Debug\net6.0\Shopping.Notification.Console.deps.json
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\bin\Debug\net6.0\Shopping.Notification.Console.runtimeconfig.json
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\bin\Debug\net6.0\Shopping.Notification.Console.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\bin\Debug\net6.0\ref\Shopping.Notification.Console.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\bin\Debug\net6.0\Shopping.Notification.Console.pdb
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.csproj.AssemblyReference.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.AssemblyInfoInputs.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.AssemblyInfo.cs
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.csproj.CoreCompileInputs.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\ref\Shopping.Notification.Console.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.pdb
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Notification\Shopping.Notification.Console\obj\Debug\net6.0\Shopping.Notification.Console.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dm8yBROrLTzvcKEkF0yNTrLUyXy9yqYvR1lqaKpayj8=",
+  "Source": "Shopping.Authentication.API",
+  "BasePath": "_content/Shopping.Authentication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

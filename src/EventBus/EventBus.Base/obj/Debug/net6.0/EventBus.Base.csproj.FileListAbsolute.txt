@@ -1,0 +1,12 @@
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\bin\Debug\net6.0\EventBus.Base.deps.json
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\bin\Debug\net6.0\EventBus.Base.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\bin\Debug\net6.0\ref\EventBus.Base.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\bin\Debug\net6.0\EventBus.Base.pdb
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.CoreCompileInputs.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\ref\EventBus.Base.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.pdb

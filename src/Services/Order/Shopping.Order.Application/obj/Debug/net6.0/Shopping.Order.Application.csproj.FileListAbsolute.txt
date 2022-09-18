@@ -1,0 +1,12 @@
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\bin\Debug\net6.0\Shopping.Order.Application.deps.json
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\bin\Debug\net6.0\Shopping.Order.Application.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\bin\Debug\net6.0\ref\Shopping.Order.Application.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\bin\Debug\net6.0\Shopping.Order.Application.pdb
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.csproj.AssemblyReference.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.AssemblyInfoInputs.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.AssemblyInfo.cs
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\ref\Shopping.Order.Application.dll
+C:\Users\samet.kiziltas\Desktop\projects\Shopping\src\Services\Order\Shopping.Order.Application\obj\Debug\net6.0\Shopping.Order.Application.pdb
