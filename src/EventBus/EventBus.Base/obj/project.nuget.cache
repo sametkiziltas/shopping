@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UXtUHYlOx2QdUXtnSCB8FKX+6L09oyzMSwSFCxslf1HC2fqyXW/3hztmoeOTkIa5Kfm4TkCqAfYSNI/UU/poNQ==",
+  "dgSpecHash": "Xzzl01qxvgZpKkLAa2EovODzIKKwoBkJRx2Qsx+5RPBT23rplb4LX+RpLhRXH+XYZfQvIfmNqiq7Kee067/HzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\samet.kiziltas\\Desktop\\projects\\Shopping\\src\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\samet.kiziltas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
